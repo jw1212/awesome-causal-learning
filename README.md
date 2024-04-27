@@ -1,6 +1,6 @@
-# Awesome Causal Inference
+# A Collection of Causal Literature
 
-A curated reading list of papers on causal inference and learning. For more comprehensive resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
+A curated reading list of papers on causal inference and causal machine learning. For other resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
 
 ## Table of Contents
 
@@ -88,7 +88,13 @@ A curated reading list of papers on causal inference and learning. For more comp
 
 - [On the Assumptions of Synthetic Control Methods](https://proceedings.mlr.press/v151/shi22b.html) - Shi, Sridhar, Misra, Blei (2022)
 
+- [Theory for identification and Inference with Synthetic Controls: A Proximal Causal Inference Framework](https://arxiv.org/pdf/2108.13935) - Shi et al. (2021)
+
 - [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20191450) - Abadie (2021)
+
+- [Combining Matching and Synthetic Control to Tradeoff Biases From Extrapolation and Interpolation](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1979562) - Kellogg et al. (2021)
+
+- [A Penalized Synthetic Control Estimator for Disaggregated Data](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1971535) -  Abadie and L'hour (2021)
 
 - [The Augmented Synthetic Control Method](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1929245?scroll=top&needAccess=true) - Ben-Michael, Feller, Rothstein (2021)
 
