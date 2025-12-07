@@ -1,19 +1,21 @@
 # A Collection of Causal Literature
 
-A curated reading list of papers on causal inference and causal machine learning. For other resources on causal inference, see for example [Awesome Causal Inference](https://github.com/matteocourthoud/awesome-causal-inference).
+A curated reading list of papers on causal inference, causal machine learning, and selected classic works in statistics and ML.
 
 ## Table of Contents
 
 - [Books](#books)
 - [Heterogeneous Treatment Effects](#heterogeneous-treatment-effects)
 - [Sensitivity Analysis](#sensitivity-analysis)
-- [Proximal Causal Inference](#proximal-causal-inference)
+- [Proximal and Multivariate Causal Inference](#proximal-and-multivariate-causal-inference)
 - [Spatial Confounding](#spatial-confounding)
 - [Panel Data](#panel-data)
 - [Causal Representation Learning and Invariance](#causal-representation-learning-and-invariance)
 - [Misc](#misc)
 
 ## Books
+
+- [Applied Causal Inference Powered by ML and AI](https://causalml-book.org/) - Chernozhukov, Hansen, Kallus, Spindler, Syrgkanis (2024)
 
 - [A First Course in Causal Inference](https://arxiv.org/pdf/2305.18793.pdf) - Ding (2023)
 
@@ -26,6 +28,8 @@ A curated reading list of papers on causal inference and causal machine learning
 - [Data Analysis Using Regression and Multilevel/Hierarchical Models](https://www.cambridge.org/highereducation/books/data-analysis-using-regression-and-multilevel-hierarchical-models/32A29531C7FD730C3A68951A17C9D983#overview) - Gelman, Hill (2006)
 
 ## Heterogeneous Treatment Effects
+
+- [Double Debiased Machine Learning Nonparametric Inference with Continuous Treatments](https://www.tandfonline.com/doi/full/10.1080/07350015.2025.2505487#abstract) - Colangelo and Lee (2025, JBES)
 
 - [Towards Optimal Doubly Robust Estimation of Heterogeneous Causal Effects](https://arxiv.org/pdf/2004.14497.pdf) - Kennedy (2023)
   
@@ -63,13 +67,20 @@ A curated reading list of papers on causal inference and causal machine learning
 
 - [Smoking and Lung Cancer: Recent Evidence and a Discussion of Some Questions](https://academic.oup.com/jnci/article/22/1/173/912572) - Cornfield et al. (1959, JNCI)
 
-## Proximal Causal Inference
+## Proximal and Multivariate Causal Inference
+
+- [Semiparametric Proximal Causal Inference](https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2191817) - Cui et al. (2024, JASA)
 
 - [An Introduction to Proximal Causal Learning](https://arxiv.org/pdf/2009.10982.pdf) - Tchetgen Tchetgen, Ying, Cui, Shi, Miao (2020)
   
-- [A Selective Review of Negative Control Methods in Epidemiology](https://link.springer.com/article/10.1007/s40471-020-00243-4) - Shi, Miao, Tchetgen Tchetgen (2020)
+- [A Selective Review of Negative Control Methods in Epidemiology](https://link.springer.com/article/10.1007/s40471-020-00243-4) - Shi, Miao, Tchetgen Tchetgen (2020, Curr. Epidemiol. Rep.)
 
-- [Identifying Causal Effects With Proxy Variables of an Unmeasured Confounder](https://arxiv.org/pdf/1609.08816.pdf) - Miao, Geng, Tchetgen Tchetgen (2018)
+- [Identifying Causal Effects With Proxy Variables of an Unmeasured Confounder](https://arxiv.org/pdf/1609.08816.pdf) - Miao, Geng, Tchetgen Tchetgen (2018, Biometrika)
+
+- [On Multi-Cause Causal Inference with Unobserved Confounding:
+Counterexamples, Impossibility, and Alternatives](https://proceedings.mlr.press/v89/d-amour19a.html) - D’Amour (2019, AISTATS)
+
+- [The Blessings of Multiple Causes](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1686987) - Wang and Blei (2019, JASA)
 
 ## Spatial Confounding
 
@@ -92,8 +103,6 @@ A curated reading list of papers on causal inference and causal machine learning
 
 - [Using Synthetic Controls: Feasibility, Data Requirements, and Methodological Aspects](https://pubs.aeaweb.org/doi/pdfplus/10.1257/jel.20191450) - Abadie (2021)
 
-- [Combining Matching and Synthetic Control to Tradeoff Biases From Extrapolation and Interpolation](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1979562) - Kellogg et al. (2021)
-
 - [A Penalized Synthetic Control Estimator for Disaggregated Data](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1971535) -  Abadie and L'hour (2021)
 
 - [The Augmented Synthetic Control Method](https://www.tandfonline.com/doi/full/10.1080/01621459.2021.1929245?scroll=top&needAccess=true) - Ben-Michael, Feller, Rothstein (2021)
@@ -115,13 +124,13 @@ A curated reading list of papers on causal inference and causal machine learning
 - [Causal Inference by using Invariant Prediction: Identification and Confidence Intervals](https://academic.oup.com/jrsssb/article/78/5/947/7040653) - Peters, Bühlmann, Meinshausen (2016)
 
 ## Misc
+
+- [Prediction-Powered Causal Inferences](https://arxiv.org/abs/2502.06343) - Cadei et al. (2025, NeurIPS)
  
 - [Bayesian causal inference: a critical review](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2022.0153) - Li, Ding, Mealli (2022)
 
 - [A Crash Course in Good and Bad Controls](https://journals.sagepub.com/doi/full/10.1177/00491241221099552) - Cinelli, Forney, Pearl (2022)
   
 - [Algorithmic Fairness: Choices, Assumptions, and Definitions](https://www.annualreviews.org/doi/pdf/10.1146/annurev-statistics-042720-125902) - Mitchell et al. (2021)
-
-- [Causal Inference using Gaussian Processes with Structured Latent Confounders](https://proceedings.mlr.press/v119/witty20a.html) - Witty et al. (2020)
    
 - [The Central Role of the Propensity Score in Observational Studies for Causal Effects](https://academic.oup.com/biomet/article/70/1/41/240879) - Rosenbaum and Rubin (1983)
