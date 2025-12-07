@@ -47,21 +47,21 @@ A curated reading list of papers on causal inference and causal machine learning
 
 ## Sensitivity Analysis
   
-- [Sensitivity Analysis of Individual Treatment Effects: A Robust Conformal Inference Approach](https://arxiv.org/pdf/2111.12161.pdf) - Jin, Ren, Candès (2022)
+- [Sensitivity Analysis of Individual Treatment Effects: A Robust Conformal Inference Approach](https://www.pnas.org/doi/10.1073/pnas.2214889120) - Jin, Ren, Candès (2023, PNAS)
 
-- [Long Story Short: Omitted Variable Bias in Causal Machine Learning](https://www.nber.org/system/files/working_papers/w30302/w30302.pdf) - Chernozhukov, Cinelli, Newey, Sharma, Syrgkanis (2022)
+- [Long Story Short: Omitted Variable Bias in Causal Machine Learning](https://arxiv.org/abs/2112.13398) - Chernozhukov, Cinelli, Newey, Sharma, Syrgkanis (2024)
 
-- [Making Sense of Sensitivity: Extending Omitted Variable Bias](https://academic.oup.com/jrsssb/article/82/1/39/7056023) - Cinelli and Hazlett (2020)
+- [Making Sense of Sensitivity: Extending Omitted Variable Bias](https://academic.oup.com/jrsssb/article/82/1/39/7056023) - Cinelli and Hazlett (2020, JRSS-B)
 
-- [Sensitivity Analysis for Inverse Probability Weighting Estimators via the Percentile Bootstrap](https://academic.oup.com/jrsssb/article/81/4/735/7048357) - Zhao, Small, Bhattacharya (2019)
+- [Sensitivity Analysis for Inverse Probability Weighting Estimators via the Percentile Bootstrap](https://academic.oup.com/jrsssb/article/81/4/735/7048357) - Zhao, Small, Bhattacharya (2019, JRSS-B)
 
-- [Sensitivity Analysis in Observational Research: Introducing the E-Value](https://www.acpjournals.org/doi/full/10.7326/M16-2607) - VanderWeele and Ding (2017)
+- [Sensitivity Analysis in Observational Research: Introducing the E-Value](https://www.acpjournals.org/doi/full/10.7326/M16-2607) - VanderWeele and Ding (2017, Ann Intern Med)
 
-- [A Distributional Approach for Causal Inference Using Propensity Scores](https://www.tandfonline.com/doi/abs/10.1198/016214506000000023) - Tan (2006)
+- [A Distributional Approach for Causal Inference Using Propensity Scores](https://www.tandfonline.com/doi/abs/10.1198/016214506000000023) - Tan (2006, JASA)
 
-- [Assessing Sensitivity to an Unobserved Binary Covariate in an Observational Study with Binary Outcome](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1983.tb01242.x) - Rosenbaum and Rubin (1983)
+- [Assessing Sensitivity to an Unobserved Binary Covariate in an Observational Study with Binary Outcome](https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/j.2517-6161.1983.tb01242.x) - Rosenbaum and Rubin (1983, JRSS-B)
 
-- [Smoking and Lung Cancer: Recent Evidence and a Discussion of Some Questions](https://academic.oup.com/jnci/article/22/1/173/912572) - Cornfield et al. (1959)
+- [Smoking and Lung Cancer: Recent Evidence and a Discussion of Some Questions](https://academic.oup.com/jnci/article/22/1/173/912572) - Cornfield et al. (1959, JNCI)
 
 ## Proximal Causal Inference
 
