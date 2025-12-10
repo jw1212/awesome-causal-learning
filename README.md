@@ -8,7 +8,7 @@ A curated reading list of papers on causal inference, causal machine learning, a
 - [Heterogeneous Treatment Effects](#heterogeneous-treatment-effects)
 - [Sensitivity Analysis](#sensitivity-analysis)
 - [Proximal and Multivariate Causal Inference](#proximal-and-multivariate-causal-inference)
-- [Spatial Confounding](#spatial-confounding)
+- [Spatial Confounding and Spatiotemporal Causal Inference](#spatial-confounding-and-spatiotemporal-causal-inference)
 - [Panel Data](#panel-data)
 - [Causal Representation Learning and Invariance](#causal-representation-learning-and-invariance)
 - [Misc](#misc)
@@ -82,9 +82,17 @@ Counterexamples, Impossibility, and Alternatives](https://proceedings.mlr.press/
 
 - [The Blessings of Multiple Causes](https://www.tandfonline.com/doi/full/10.1080/01621459.2019.1686987) - Wang and Blei (2019, JASA)
 
-## Spatial Confounding
+## Spatial Confounding and Spatiotemporal Causal Inference
 
-- [A Causal Inference Framework for Spatial Confounding](https://arxiv.org/pdf/2112.14946.pdf) - Gilbert, Datta, Casey, Ogburn (2023)
+- [A Systematic Review of Spatio-Temporal Statistical Models: Theory, Structure, and Applications](https://arxiv.org/pdf/2511.00422) - Habereder et al. (2025)
+
+- [Robust Spatial Confounding Adjustment via Basis Voting](https://arxiv.org/pdf/2510.22464) - Burman et al. (2025)
+
+- [Spatial Deconfounder: Interference-Aware Deconfounding for Spatial Causal Inference](https://arxiv.org/pdf/2510.08762) - Khot et al. (2025)
+
+- [GST-UNet: Spatiotemporal Causal Inference with Time-Varying Confounders](https://arxiv.org/pdf/2502.05295) - Oprescu et al. (2025)
+
+- [A Causal Inference Framework for Spatial Confounding](https://arxiv.org/pdf/2112.14946.pdf) - Gilbert et al. (2023)
 
 - [Spatial+: A novel approach to spatial confounding](https://onlinelibrary.wiley.com/doi/full/10.1111/biom.13656) - Dupont, Wood, Augustin (2022)
 
