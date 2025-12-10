@@ -133,6 +133,8 @@ Counterexamples, Impossibility, and Alternatives](https://proceedings.mlr.press/
 
 ## Misc
 
+- [Beyond reweighting: On the predictive role of covariate shift in effect generalization](https://www.pnas.org/doi/epub/10.1073/pnas.2427181122) - Jin, Egami, Rothenhäusler (2025, PNAS)
+
 - [Prediction-Powered Causal Inferences](https://arxiv.org/abs/2502.06343) - Cadei et al. (2025, NeurIPS)
  
 - [Bayesian causal inference: a critical review](https://royalsocietypublishing.org/doi/full/10.1098/rsta.2022.0153) - Li, Ding, Mealli (2022)
