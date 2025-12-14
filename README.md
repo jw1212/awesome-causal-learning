@@ -127,6 +127,8 @@ Counterexamples, Impossibility, and Alternatives](https://proceedings.mlr.press/
 
 - [Counterfactual Invariance to Spurious Correlations: Why and How to Pass Stress Tests](https://arxiv.org/pdf/2106.00545.pdf) - Veitch, D'Amour, Yadlowsky, Eisenstein (2021)
 
+- [Invariant Risk Minimization](https://arxiv.org/abs/1907.02893) - Arjovsky et al. (2019)
+
 - [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://arxiv.org/pdf/1901.10912.pdf) -  Bengio et al. (2019)
 
 - [Causal Inference by using Invariant Prediction: Identification and Confidence Intervals](https://academic.oup.com/jrsssb/article/78/5/947/7040653) - Peters, Bühlmann, Meinshausen (2016)
